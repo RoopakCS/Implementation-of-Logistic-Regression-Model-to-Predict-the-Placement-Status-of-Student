@@ -7,7 +7,7 @@ To write a program to implement the the Logistic Regression Model to Predict the
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
-## Algorithm
+## Algorithm:
 1. Import the required packages.
 2. Print the present data and placement data and salary data.
 3. Using logistic regression find the predicted values of accuracy confusion matrices.
